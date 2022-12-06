@@ -285,6 +285,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner img {
   animation: updown 3s linear infinite;
 }
+
 @keyframes updown {
     0% {
         transform: translateY(-20px);
@@ -571,7 +572,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .new-email-bx::before {
   content: "";
-  background: linear-gradient(90.21deg, #00f4fc -5.91%, #1900ff 111.58%);
+  background: linear-gradient(90.21deg, #3f3f3f -5.91%,  #323030 111.58%);
   border-radius: 20px;
   position: absolute;
   z-index: -1;
@@ -600,13 +601,19 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 0 15px;
 }
 .new-email-bx button {
-  background: linear-gradient(90.21deg, #00f4fc -5.91%, #1900ff 111.58%);
+  background: linear-gradient(234deg, #ffffff -5.91%, #323030 111.58%);
   padding: 20px 65px;
   color: #fff;
   font-weight: 500;
   letter-spacing: 0.5px;
   border-radius: 18px;
 }
+
+.new-email-bx button:hover {
+  background: linear-gradient(234deg, #323030 -5.91%, #ffffff 111.58%);
+}
+
+
 .footer img {
   width: 26%;
 }

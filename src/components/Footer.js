@@ -17,8 +17,7 @@ export const Footer = () => {
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/juan-david-estrada-carvajal-691732251/" target="_BLANK"><img src={navIcon1} alt="Icon" /></a>
-              <a href="#" target="_BLANK"><img src={navIcon2} alt="Icon" /></a>
-              <a href="#" target="_BLANK"><img src={navIcon3} alt="Icon" /></a>
+              <a href="https://github.com/EstraX4" target="_BLANK"><img src={navIcon2} alt="" /></a>
             </div>
             <p>Copyright 2022. All Rights Reserved</p>
           </Col>
