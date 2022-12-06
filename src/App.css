@@ -286,6 +286,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   animation: updown 3s linear infinite;
 }
 
+.Header-img {
+  width: 67%;
+  margin-left: 20%;
+}
+
 @keyframes updown {
     0% {
         transform: translateY(-20px);

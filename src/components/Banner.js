@@ -4,6 +4,7 @@ import headerImg from "../assets/img/header-img.png";
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
+import './../App.css';
 
 export const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
@@ -66,7 +67,7 @@ export const Banner = () => {
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
-                  <img src={headerImg} alt="Header Img"/>
+                  <img src={headerImg} alt="Header Img" className="Header-img"/>
                 </div>}
             </TrackVisibility>
           </Col>
