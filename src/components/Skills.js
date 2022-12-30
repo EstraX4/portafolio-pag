@@ -51,8 +51,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
                       alt="html5"
-                      width="40"
-                      height="40"
                     />{" "}
                   </a>
                 </div>
@@ -66,8 +64,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
                       alt="css3"
-                      width="40"
-                      height="40"
                     />{" "}
                   </a>
                 </div>
@@ -81,8 +77,6 @@ export const Skills = () => {
                     <img
                       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                       alt="javascript"
-                      width="40"
-                      height="40"
                     />{" "}
                   </a>
                 </div>
@@ -96,8 +90,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
                       alt="bootstrap"
-                      width="40"
-                      height="40"
                     />{" "}
                   </a>
                 </div>
@@ -111,8 +103,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
                       alt="css3"
-                      width="40"
-                      height="40"
                     />{" "}
                   </a>
                 </div>
@@ -126,8 +116,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
                       alt="javascript"
-                      width="40"
-                      height="40"
                     />{" "}
                   </a>
                 </div>
@@ -141,8 +129,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
                       alt="React"
-                      width="40"
-                      height="40"
                     />
                   </a>
                 </div>
@@ -156,8 +142,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
                       alt="NodeJs"
-                      width="40"
-                      height="40"
                     />
                   </a>
                 </div>
@@ -170,8 +154,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
                       alt="mongoDb"
-                      width="40"
-                      height="40"
                     />
                   </a>
                 </div>
@@ -185,8 +167,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
                       alt="figma"
-                      width="40"
-                      height="40"
                     />{" "}
                   </a>
                 </div>
@@ -199,8 +179,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
                       alt="firebase"
-                      width="40"
-                      height="40"
                     />
                   </a>
                 </div>
@@ -213,8 +191,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
                       alt="python"
-                      width="40"
-                      height="40"
                     />
                   </a>
                 </div>
@@ -224,8 +200,6 @@ export const Skills = () => {
                     <img
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
                       alt="git"
-                      width="40"
-                      height="40"
                     />
                   </a>
                 </div>
