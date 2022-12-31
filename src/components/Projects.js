@@ -20,11 +20,16 @@ export const Projects = () => {
       description: "Page made with html and css.",
       imgUrl: projImg2,
     },
+    {
+      title: "Vaccination page",
+      description: "Page made with html and css.",
+      imgUrl: projImg2,
+    },
   ];
 
   const certificates = [
     {
-      title: "Responsive Web Design",
+      title: "Web Design",
       description: "freeCodeCamp",
       imgUrl: CertImg1,
     },
